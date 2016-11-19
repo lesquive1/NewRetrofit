@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NewRetrofit.iml" filepath="$PROJECT_DIR$/NewRetrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testretrofit/testretrofit.iml" filepath="$PROJECT_DIR$/testretrofit/testretrofit.iml" />
+    </modules>
+  </component>
+</project>
